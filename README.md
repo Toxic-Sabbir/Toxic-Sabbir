@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+SABBIR+HOSSAIN;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Niki404-Cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Toxic-Sabbir&theme=monokai"></a>
+<a href="https://github.com/Toxic-Sabbir"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Toxic-Sabbir&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [SHANTO](https://www.facebook.com/xboy.sabbir.24)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [SABNIR HOSSAIN](https://www.facebook.com/xboy.sabbir.24)
 
 
 
@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
 
-[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://fb.com/Shanto.vau404)
-[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/Shanto.vau404)
+[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://fb.com/xboy.sabbir.24)
+[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/xboy.sabbir.24)
 
 ### ⚙️ &nbsp; 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
 
@@ -108,8 +108,8 @@ Here are some ideas to get you started:
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/Dark-Cyber-07/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Dark-Cyber-07&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Dark-Cyber-07 GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/Dark-Cyber-07/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Cyber-07&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/Toxic-Sabbir/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Toxic-Sabbir&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Dark-Cyber-07 GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/Toxic-Sabbir/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxic-Sabbir&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
