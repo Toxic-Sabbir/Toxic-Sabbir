@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [SABNIR HOSSAIN](https://www.facebook.com/xboy.sabbir.24)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [SABBIR HOSSAIN](https://www.facebook.com/xboy.sabbir.24)
 
 
 
